@@ -6,17 +6,8 @@ I believe in writing code that’s not only functional, but thoughtful. 💡
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages**  
-→ HTML 💻 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; CSS 🎨 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; JavaScript ⚡
-
-**Frameworks/Libraries**  
-→ React ⚛️ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Node.js 🌱 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; Express 🚀
-
-**Databases**  
-→ MongoDB 🍃
-
+### 🛠️ Visit my portfolio:
+[Click Here] (https://mahadiislamalif.netlify.app/)
 ---
 
 ### 🧠 Philosophy
