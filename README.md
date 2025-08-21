@@ -1,29 +1,27 @@
-# Hello, I'm Alif. 👋
+# Hello, I'm Alif 👋  
 
-A dedicated and curious developer on a journey to learn, build, and evolve.  
-My work reflects a love for logic, structure, and silent problem-solving.  
-I believe in writing code that’s not only functional, but thoughtful. 💡
-
----
-
-### 🛠️ Visit my portfolio:
-[Click Here] (https://mahadiislamalif.netlify.app/)
----
-
-### 🧠 Philosophy
-
-I approach development with **patience** and **precision**.  
-Every line of code is a step toward understanding more—  
-about systems, about people, and about myself. 💭
+I’m a passionate and curious developer, constantly learning, building, and evolving.  
+My work reflects a deep love for logic, structure, and solving problems quietly yet effectively.  
+I believe in writing code that’s not only functional, but also meaningful and thoughtfully crafted. 💡  
 
 ---
 
-### 📞 Contact
-
-**Email:** [iamitachi494@gmail.com](mailto:iamitachi494@gmail.com) ✉️  
-**WhatsApp:** [+8801903585422](https://wa.me/8801903585422) 📱
+## 🛠️ Portfolio  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://mahadiislamalif.netlify.app/)  
 
 ---
 
-> *“You don’t just write code. You shape experiences, one commit at a time.”* ✨  
-> —Alif 💻
+## 🧠 Philosophy  
+I approach development with patience and precision.  
+For me, every line of code is more than syntax—it’s a step toward understanding systems, people, and myself. 💭  
+
+---
+
+## 📞 Contact  
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamitachi494@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801903585422)  
+
+---
+
+> *“You don’t just write code—you shape experiences, one commit at a time.”* ✨  
+— Alif 💻
